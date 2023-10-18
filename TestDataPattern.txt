@@ -1,0 +1,7 @@
+id, name, address, birthDate, bio, occupation, genres, awards
+
+// 1st valid data
+("678AAAAA##", "Name", "Sydney|New South Wales|Australia", "10-10-1979", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia", ["Singer"], ["1998, The Best New Artist", "1999, The Most Popular Artist"], ["classic", "pop"])
+
+// 2nd valid data
+("789BBBBB%%", "Name", "New York|New York|USA", "26-11-2000", "The quick little brown fox highly jumps over the big lazy dog sitting comfortably in the sun, while the birds chirp and the trees sway gently in the afternoon breeze.", ["Singer", "Songwriter", "Producer"], ["2021, The Best New Artist", "2022, The Most Popular Artist", "2023, Artist of the Year"], ["classic", "pop", "jazz", "hip-hop", "country"])
